@@ -1,5 +1,7 @@
-title: My First Github Page
+---
+title: "My First Github Page"
 date: 2020-02-17
+---
 author: muin2473
 email: muin.739@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
