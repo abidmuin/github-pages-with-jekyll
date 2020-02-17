@@ -1,2 +1,4 @@
-Hello everyone!
-This is a test page :D
+---
+title: "Test page"
+date: 2020-02-17
+---
